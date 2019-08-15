@@ -36,13 +36,6 @@ html, body{
 }
 
 
-Gallery
-{
-    height:100vh;
-}
-
-
-
 
 .modal,body.modal-open {
     padding-right: 0!important
@@ -67,7 +60,5 @@ body.scrollable {
     position:absolute;
     right:10px;
 }
-
-
 
 
