@@ -34,7 +34,16 @@ html, body{
     color:white;
    
 }
-
+.carousel
+{
+   
+    width:30px;
+    
+}
+.Section-2 .container
+{
+    height:100%;
+}
 
 
 .modal,body.modal-open {
